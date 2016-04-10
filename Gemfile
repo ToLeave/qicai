@@ -29,10 +29,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'bcrypt', '~> 3.1.7'
 
 
-gem 'activeadmin',         github: 'gregbell/active_admin'
-gem 'ransack',             github: 'ernie/ransack'
-gem 'inherited_resources', github: 'josevalim/inherited_resources'
-gem 'formtastic',          github: 'justinfrench/formtastic'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
